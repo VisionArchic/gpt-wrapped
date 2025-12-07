@@ -13,7 +13,7 @@ A beautiful analytics dashboard for your ChatGPT conversation exports. Your data
 
 ## 🚀 Try It Live
 
-**Live Demo:** [Coming Soon - Will be deployed to Streamlit Cloud]
+**Live Demo:** https://gpt-wrapped.streamlit.app
 
 ## 🔒 Privacy First
 
