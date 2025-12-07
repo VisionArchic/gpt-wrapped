@@ -62,10 +62,6 @@ streamlit run app.py
 - **NLP**: NLTK, TextBlob
 - **Token Counting**: tiktoken
 
-## 📝 License
-
-MIT License - Feel free to use and modify!
-
 ## 🤝 Contributing
 
 Contributions welcome! Please feel free to submit a Pull Request.
@@ -80,4 +76,4 @@ Found a bug? [Open an issue](your-github-repo/issues)
 
 ---
 
-Made with ❤️ for curious minds who want to understand their AI interactions
+Made with ❤️ for curious minds by a curious mind who want to understand their AI interactions
